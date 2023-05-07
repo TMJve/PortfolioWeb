@@ -18,7 +18,7 @@ body {
 
   /* background-color: aqua; */
   margin-left: 40px;
-
+  margin-top: 50px;
 }
 
 .introduction-txt {
@@ -58,6 +58,7 @@ body {
 }
 
 /* NAVBAR CSS */
+
 
 .navbar {
   min-height: 70px;
